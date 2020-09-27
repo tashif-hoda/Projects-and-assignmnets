@@ -1,5 +1,5 @@
 Authors-
-Tashif Hoda, Vadiraj K, Yashraj K
+Tashif Hoda
 
 Instructions:
 -Use the menu appearing in the command prompt.
